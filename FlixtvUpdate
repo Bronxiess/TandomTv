@@ -2,5 +2,5 @@
   "app_version": "3.0",
   "force_update": "false",
   "notification": "Welcome To FlixTV 3.0",
-  "base_url": "http://dev.flixplay.us"
+  "base_url": "http://dev.flixplay.us/"
 }
