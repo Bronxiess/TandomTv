@@ -1,6 +1,12 @@
 {
   "app_version": "3.0",
   "force_update": "false",
-  "notification": "Welcome To FlixTV 3.0",
-  "base_url": "https://app.endcorona.xyz/"
+  "update_log": "Completely Revamped App",
+  "base_url": "https://app.endcorona.xyz/",
+  "web_url": "https://web.flixplay.in.net/",
+  "donate_url": "https://donate.flixtv.shop/",
+  "apk_link": "",
+  "app_status": "1",
+  "app_msg": "",
+  "config_key": "2C0B08AD4B5C9B637B51F833C771FE7330FA9A164085180E"
 }
